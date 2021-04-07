@@ -24,9 +24,6 @@ public:
     bool isFullyExpanded();
     MCTSNode* getBestChildChoice();
     MCTSNode* getChildWithBestScore();
-    
-    
-    void update(char player);
 
     MCTSNode();
     MCTSNode(Board _boardstate, char _nodes_player);
