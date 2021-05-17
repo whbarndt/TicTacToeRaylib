@@ -1,6 +1,7 @@
 # TicTacToeRaylib
 Tic Tac Toe Raylib Implementation 
 
+- Raylib installation required (Download here: https://www.raylib.com)
 - Raylib implementation of Tic Tac Toe
 - Fully playable Tic Tac Toe game with
   - Player vs Player
